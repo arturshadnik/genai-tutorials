@@ -14,4 +14,4 @@
 
 [Deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-
+[AWS](https://aws.amazon.com/what-is/prompt-engineering/)
