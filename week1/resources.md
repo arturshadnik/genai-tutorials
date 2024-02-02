@@ -15,3 +15,6 @@
 [Deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
 [AWS](https://aws.amazon.com/what-is/prompt-engineering/)
+
+### AI-900
+[Microsoft Learning Path](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/?tab=tab-learning-paths)
