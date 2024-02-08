@@ -3,3 +3,5 @@ openai
 requests
 mistralai
 ollama
+python-dotenv
+google-cloud-aiplatform
