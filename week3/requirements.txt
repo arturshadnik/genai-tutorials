@@ -1,0 +1,6 @@
+ipykernel
+langchain
+langchain-openai
+wikipedia
+duckduckgo-search
+python-dotenv
